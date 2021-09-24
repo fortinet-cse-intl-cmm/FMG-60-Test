@@ -86,7 +86,6 @@ and  https://docs.fortinet.com/document/fortimanager/6.2.8/upgrade-guide/295114/
 
 From FortiManager System Information GUI, upgrade firstlu 6.0.11 GA to 6.2.8 GA then to 6.4.7 GA
 
-
 ```
 
 # Conclusion
