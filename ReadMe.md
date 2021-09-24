@@ -10,6 +10,7 @@
 ```
 FortiManager( 10.210.34.68) --(FGT  10.210.34.67)
 
+```
 # To configure the FortiManager 
 
 ```
