@@ -2,7 +2,7 @@
   - [Network Diagram](#Network-Diagram)
   - [To configure the FortiManager HA](#To-configure-the-FortiManager)
   - [To configure the FortiGate HA](#To-configure-the-FortiGate)
-  - [Upgrade the FortiManager from 6.0.11 GA to 6.4 GA](#Upgrade-the FortiManager-from-6.0.11-GA-to-6.4-GA)
+  - [Upgrade the FortiManager](#Upgrade-the-FortiManager)
   - [Conclusion)
 
 # NetWork Digram
@@ -77,7 +77,7 @@ end
 
 ```
 
-# Upgrade the FortiManager from 6.0.11 GA to 6.4 GA
+# Upgrade the FortiManager 
 
 ```
 Upgrade path to follow is 6.0.11 GA --> 6.2.8 GA --> 6.4.7 GA -> 7.0.1 GA
