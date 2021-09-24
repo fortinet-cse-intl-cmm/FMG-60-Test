@@ -3,8 +3,8 @@
   - [To configure the FortiManager HA](#To-configure-the-FortiManager)
   - [To configure the FortiGate HA](#To-configure-the-FortiGate)
   - [Upgrade the FortiManager](#Upgrade-the-FortiManager)
-  - [Conclusion)
-
+  - [Conclusion)(#Conclusion)
+ 
 # NetWork Digram
 
 ```
