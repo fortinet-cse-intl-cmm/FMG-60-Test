@@ -88,13 +88,12 @@ and
 https://docs.fortinet.com/document/fortimanager/7.0.1/upgrade-guide/295114/fortimanager-firmware-upgrade-paths-and-supported-models
 
 From FortiManager System Information GUI, upgrade firstlu 6.0.11 GA to 6.2.8 GA then to 6.4.7 GA and finally from 6.4.7 GA to 7.0.1 GA
-
 ```
 
 # Conclusion
 
-```
 
+```
 After the first upgrade, adom : 6_0 is conserved and root adom is also in 6.0 
 
 After the second upgrade, same situation than after the first upgrade
@@ -120,5 +119,4 @@ fmgfaz-managed  135    FGVMULTM21001410 -       10.210.34.67    test-fos-60     
 
 
 --- End device list ---
-
 ```
